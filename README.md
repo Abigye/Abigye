@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm passionate about making education more accessible, engaging, and interactive through technology. <br>With experience in software engineering, I’ve worked on a variety of data-driven projects and enjoy the challenge of using Python and Java to build tools that simplify complex concepts.<br> <br> 🤝 I also love teaching and helping others.<br><br>💻⚛️ I’m currently learning React and TypeScript to expand my skills in building interactive applications.<br><br>💡 I’m always excited to explore new ways to bridge the gap between technology and education! I'm open to collaborating on projects and learning from others! Feel free to connect. 🚀
+👋 Hi there! I'm passionate about learning through technology and finding innovative ways to make it more accessible, engaging, and interactive.
 
+🚀 I'm always excited to explore new ideas, build tools that simplify complex concepts, and 🤝 collaborate with others who share a love for learning! Feel free to connect.
+
+💻⚛️ I’m currently learning React/TypeScript to expand my skills in building interactive applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abigail-agyemang-appah) 
